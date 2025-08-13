@@ -23,14 +23,10 @@ A fully responsive restaurant website built using **HTML**, **CSS**, and **JavaS
   - Scroll animations and smooth transitions.
   - Validating form inputs and dynamic content updates.
 
-## Demo
-You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/RESTAURANT.html).
-
-
 ## How to Run the Project
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/madskull0101/Restaurant-website.git
+   git clone https://github.com/HarishKolupula168/Restaurant-Website.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -43,14 +39,6 @@ You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/
      open RESTAURANT.html  # macOS
      xdg-open RESTAURANT.html  # Linux
      ```
-
-## Screenshots
-![Restaurant Home Page](https://github.com/user-attachments/assets/1717aa32-94b2-4e69-a435-139c323cbdb2)
-* Home page of the restaurant website.*
-
-![Menu Section](https://github.com/user-attachments/assets/e4a29fc2-e2ce-41b6-b1af-a0390b2b159e)
-* Restaurant menu section.*
-
 ## Future Enhancements
 - **Online Ordering**: Add functionality for customers to place orders online.
 - **Backend Integration**: Implement a backend system for handling table reservations.
@@ -73,10 +61,4 @@ Contributions are welcome! If you'd like to improve this project:
    ```
 5. Open a pull request on GitHub.
 
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
 
